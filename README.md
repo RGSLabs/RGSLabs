@@ -163,6 +163,11 @@ Every project should be:
 ### Building digital experiences that help businesses grow.
 
 ---
+
+Professional Websites • Landing Pages • Digital Solutions
+
+---
+
 <p align="center">
 
 <a href="https://TU-LANDING.com">
@@ -174,9 +179,5 @@ Every project should be:
 </a>
 
 </p>
-
----
-
-Professional Websites • Landing Pages • Digital Solutions
 
 </div>
