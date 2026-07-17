@@ -170,7 +170,7 @@ Professional Websites • Landing Pages • Digital Solutions
 
 <p align="center">
 
-<a href="https://TU-LANDING.com">
+<a href="https://rgslabs.github.io/RGS-Labs-Landing-Page/">
 <img src="https://img.shields.io/badge/🌐_Official_Website-Visit-2563EB?style=for-the-badge">
 </a>
 
